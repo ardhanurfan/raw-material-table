@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LOIPRO_PRO>
+    <IDOC BEGIN="1">
+        <EDI_DC40 SEGMENT="1">
+            <DOCNUM>113679</DOCNUM>
+            <DOCREL>1.0</DOCREL>
+            <IDOCTYP>LOIPRO01</IDOCTYP>
+            <CIMTYP/>
+            <MESTYP>LOIPRO</MESTYP>
+            <MESCOD>PRO</MESCOD>
+            <SNDPRN>OPM</SNDPRN>
+            <RCVPRN>PASX</RCVPRN>
+            <CREDAT>20221122</CREDAT>
+            <CRETIM>133050</CRETIM>
+        </EDI_DC40>
+        <E1AFKOL SEGMENT="1">
+            <WERKS>FPT</WERKS>
+            <AUFNR>220000783-01</AUFNR>
+            <AUTYP>W</AUTYP>
+            <MATNR>ICMH1</MATNR>
+            <CHARG>N010015A~01</CHARG>
+            <GAMNG>4730.000</GAMNG>
+            <GMEIN>BTL</GMEIN>
+            <GLTRS>20221102</GLTRS>
+            <GLUZS>102629</GLUZS>
+            <GSTRS>20221102</GSTRS>
+            <GSUZS>012737</GSUZS>
+            <MMOLINES/>
+            <E1JSTKL SEGMENT="1">
+                <STAT>2</STAT>
+            </E1JSTKL>
+            <E1AFVOL SEGMENT="1">
+                <VORNR>ICMH1</VORNR>
+                <LTXA1>MIXING</LTXA1>
+                <ARBID>DISP</ARBID>
+                <SUBLOT>1</SUBLOT>
+                <OWNER>DISP</OWNER>
+                <E1RESBL SEGMENT="1">
+                    <POSNR>1</POSNR>
+                    <DISPENSESTEP>1</DISPENSESTEP>
+                    <BOMMATNR>13AS17900</BOMMATNR>
+                    <BDMNG>2.155</BDMNG>
+                    <BOMMEINS>KG</BOMMEINS>
+                    <Z1RESBL SEGMENT="1">
+                        <RESCHARG>B/22/07/0005</RESCHARG>
+                        <RESQTY>2.155</RESQTY>
+                        <RMEINS>KG</RMEINS>
+                        <LPNNUM>PB/22/07/0005</LPNNUM>
+                    </Z1RESBL>
+                </E1RESBL>
+                <E1RESBL SEGMENT="2">
+                    <POSNR>2</POSNR>
+                    <DISPENSESTEP>5</DISPENSESTEP>
+                    <BOMMATNR>13AX00510</BOMMATNR>
+                    <BDMNG>120.000</BDMNG>
+                    <BOMMEINS>KG</BOMMEINS>
+                    <Z1RESBL SEGMENT="1">
+                        <RESCHARG>B/22/06/0044</RESCHARG>
+                        <RESQTY>120.000</RESQTY>
+                        <RMEINS>KG</RMEINS>
+                        <LPNNUM>PB/22/06/0050</LPNNUM>
+                    </Z1RESBL>
+                </E1RESBL>
+                <E1RESBL SEGMENT="3">
+                    <POSNR>3</POSNR>
+                    <DISPENSESTEP>1</DISPENSESTEP>
+                    <BOMMATNR>13AS17700</BOMMATNR>
+                    <BDMNG>4.394</BDMNG>
+                    <BOMMEINS>KG</BOMMEINS>
+                    <Z1RESBL SEGMENT="1">
+                        <RESCHARG>B/22/06/0039</RESCHARG>
+                        <RESQTY>4.394</RESQTY>
+                        <RMEINS>KG</RMEINS>
+                        <LPNNUM>PB/22/06/0045</LPNNUM>
+                    </Z1RESBL>
+                </E1RESBL>
+                <E1RESBL SEGMENT="4">
+                    <POSNR>4</POSNR>
+                    <DISPENSESTEP>1</DISPENSESTEP>
+                    <BOMMATNR>13AS01730</BOMMATNR>
+                    <BDMNG>4.769</BDMNG>
+                    <BOMMEINS>KG</BOMMEINS>
+                    <Z1RESBL SEGMENT="1">
+                        <RESCHARG>B/21/10/0056</RESCHARG>
+                        <RESQTY>4.769</RESQTY>
+                        <RMEINS>KG</RMEINS>
+                        <LPNNUM>PB/21/10/0060</LPNNUM>
+                    </Z1RESBL>
+                </E1RESBL>
+                <E1RESBL SEGMENT="5">
+                    <POSNR>5</POSNR>
+                    <DISPENSESTEP>1</DISPENSESTEP>
+                    <BOMMATNR>13AM00320</BOMMATNR>
+                    <BDMNG>1.774</BDMNG>
+                    <BOMMEINS>KG</BOMMEINS>
+                    <Z1RESBL SEGMENT="1">
+                        <RESCHARG>B/21/11/0005_01</RESCHARG>
+                        <RESQTY>1.774</RESQTY>
+                        <RMEINS>KG</RMEINS>
+                        <LPNNUM>PB/21/11/0011_01</LPNNUM>
+                    </Z1RESBL>
+                </E1RESBL>
+                <E1RESBL SEGMENT="6">
+                    <POSNR>6</POSNR>
+                    <DISPENSESTEP>1</DISPENSESTEP>
+                    <BOMMATNR>13AI01330</BOMMATNR>
+                    <BDMNG>20.280</BDMNG>
+                    <BOMMEINS>KG</BOMMEINS>
+                    <Z1RESBL SEGMENT="1">
+                        <RESCHARG>B/22/10/0001</RESCHARG>
+                        <RESQTY>20.280</RESQTY>
+                        <RMEINS>KG</RMEINS>
+                        <LPNNUM>PB/22/10/0001</LPNNUM>
+                    </Z1RESBL>
+                </E1RESBL>
+                <E1RESBL SEGMENT="7">
+                    <POSNR>7</POSNR>
+                    <DISPENSESTEP>1</DISPENSESTEP>
+                    <BOMMATNR>13AL02930</BOMMATNR>
+                    <BDMNG>22.704</BDMNG>
+                    <BOMMEINS>KG</BOMMEINS>
+                    <Z1RESBL SEGMENT="1">
+                        <RESCHARG>B/22/10/0004</RESCHARG>
+                        <RESQTY>22.704</RESQTY>
+                        <RMEINS>KG</RMEINS>
+                        <LPNNUM>PB/22/10/0004</LPNNUM>
+                    </Z1RESBL>
+                </E1RESBL>
+                <E1RESBL SEGMENT="8">
+                    <POSNR>8</POSNR>
+                    <DISPENSESTEP>1</DISPENSESTEP>
+                    <BOMMATNR>13AV03630</BOMMATNR>
+                    <BDMNG>17.016</BDMNG>
+                    <BOMMEINS>KG</BOMMEINS>
+                    <Z1RESBL SEGMENT="1">
+                        <RESCHARG>B/22/09/0022</RESCHARG>
+                        <RESQTY>17.016</RESQTY>
+                        <RMEINS>KG</RMEINS>
+                        <LPNNUM>PB/22/09/0026</LPNNUM>
+                    </Z1RESBL>
+                </E1RESBL>
+                <E1RESBL SEGMENT="9">
+                    <POSNR>9</POSNR>
+                    <DISPENSESTEP>1</DISPENSESTEP>
+                    <BOMMATNR>13AL05800</BOMMATNR>
+                    <BDMNG>24.720</BDMNG>
+                    <BOMMEINS>KG</BOMMEINS>
+                    <Z1RESBL SEGMENT="1">
+                        <RESCHARG>B/22/03/0044</RESCHARG>
+                        <RESQTY>5.335</RESQTY>
+                        <RMEINS>KG</RMEINS>
+                        <LPNNUM>PB/22/03/0046</LPNNUM>
+                    </Z1RESBL>
+                    <Z1RESBL SEGMENT="2">
+                        <RESCHARG>B/22/04/0013</RESCHARG>
+                        <RESQTY>19.385</RESQTY>
+                        <RMEINS>KG</RMEINS>
+                        <LPNNUM>PB/22/04/0015</LPNNUM>
+                    </Z1RESBL>
+                </E1RESBL>
+                <E1RESBL SEGMENT="10">
+                    <POSNR>10</POSNR>
+                    <DISPENSESTEP>2</DISPENSESTEP>
+                    <BOMMATNR>13AA17120</BOMMATNR>
+                    <BDMNG>36.000</BDMNG>
+                    <BOMMEINS>KG</BOMMEINS>
+                    <Z1RESBL SEGMENT="1">
+                        <RESCHARG>B/22/09/0009</RESCHARG>
+                        <RESQTY>36.000</RESQTY>
+                        <RMEINS>KG</RMEINS>
+                        <LPNNUM>PB/22/09/0010</LPNNUM>
+                    </Z1RESBL>
+                </E1RESBL>
+                <E1RESBL SEGMENT="11">
+                    <POSNR>11</POSNR>
+                    <DISPENSESTEP>1</DISPENSESTEP>
+                    <BOMMATNR>13AM12810</BOMMATNR>
+                    <BDMNG>16.800</BDMNG>
+                    <BOMMEINS>KG</BOMMEINS>
+                    <Z1RESBL SEGMENT="1">
+                        <RESCHARG>B/22/04/0017</RESCHARG>
+                        <RESQTY>0.919</RESQTY>
+                        <RMEINS>KG</RMEINS>
+                        <LPNNUM>PB/22/04/0019</LPNNUM>
+                    </Z1RESBL>
+                    <Z1RESBL SEGMENT="2">
+                        <RESCHARG>B/22/04/0014</RESCHARG>
+                        <RESQTY>15.881</RESQTY>
+                        <RMEINS>KG</RMEINS>
+                        <LPNNUM>PB/22/04/0016</LPNNUM>
+                    </Z1RESBL>
+                </E1RESBL>
+                <E1RESBL SEGMENT="12">
+                    <POSNR>12</POSNR>
+                    <DISPENSESTEP>1</DISPENSESTEP>
+                    <BOMMATNR>13AP22010</BOMMATNR>
+                    <BDMNG>0.302</BDMNG>
+                    <BOMMEINS>KG</BOMMEINS>
+                    <Z1RESBL SEGMENT="1">
+                        <RESCHARG>B/20/12/0001</RESCHARG>
+                        <RESQTY>0.302</RESQTY>
+                        <RMEINS>KG</RMEINS>
+                        <LPNNUM>PB/20/12/0001</LPNNUM>
+                    </Z1RESBL>
+                </E1RESBL>
+                <E1RESBL SEGMENT="13">
+                    <POSNR>13</POSNR>
+                    <DISPENSESTEP>1</DISPENSESTEP>
+                    <BOMMATNR>13AN00200</BOMMATNR>
+                    <BDMNG>192.000</BDMNG>
+                    <BOMMEINS>G</BOMMEINS>
+                    <Z1RESBL SEGMENT="1">
+                        <RESCHARG>B/21/02/0016</RESCHARG>
+                        <RESQTY>192.000</RESQTY>
+                        <RMEINS>G</RMEINS>
+                        <LPNNUM>PB/21/02/0020</LPNNUM>
+                    </Z1RESBL>
+                </E1RESBL>
+                <E1RESBL SEGMENT="14">
+                    <POSNR>14</POSNR>
+                    <DISPENSESTEP>1</DISPENSESTEP>
+                    <BOMMATNR>14AE22410</BOMMATNR>
+                    <BDMNG>240.000</BDMNG>
+                    <BOMMEINS>G</BOMMEINS>
+                    <Z1RESBL SEGMENT="1">
+                        <RESCHARG>B/21/10/0044</RESCHARG>
+                        <RESQTY>240.000</RESQTY>
+                        <RMEINS>G</RMEINS>
+                        <LPNNUM>PB/21/10/0047</LPNNUM>
+                    </Z1RESBL>
+                </E1RESBL>
+            </E1AFVOL>
+        </E1AFKOL>
+    </IDOC>
+</LOIPRO_PRO>
